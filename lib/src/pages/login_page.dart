@@ -10,11 +10,11 @@ class LoginPage extends StatelessWidget {
       body: Stack(
         alignment: AlignmentDirectional.topCenter,
         children: <Widget>[
-          Image.asset('lib/src/img/subtraction_2',
+          Image.asset('lib/src/img/subtraction_2.png',
           fit: BoxFit.fill,
           width: _width,
           ),
-          Image.asset('lib/src/img/subtraction_1',
+          Image.asset('lib/src/img/subtraction_1.png',
           fit: BoxFit.fill,
           width: _width,
           height: 350.0,
