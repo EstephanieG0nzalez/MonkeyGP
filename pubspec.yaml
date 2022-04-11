@@ -80,6 +80,19 @@ flutter:
     - lib/src/img/Inbox.png
     - lib/src/img/About_us.png
     - lib/src/img/mas.png
+    - lib/src/img/Brownies.png
+    - lib/src/img/Street_Shake.png
+    - lib/src/img/Dark_Chocolate_Cake.png
+    - lib/src/img/French_Apple_Pie.png
+    - lib/src/img/Star.png
+    - lib/src/img/Star2.png
+    - lib/src/img/Dot.png
+    - lib/src/img/TrazadoEstrella.png
+    - lib/src/img/Elipse77.png
+    - lib/src/img/Grupo720.png
+    - lib/src/img/Grupo8176.png
+    - lib/src/img/Capture.png
+    - lib/src/img/Current_location_address.png
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
