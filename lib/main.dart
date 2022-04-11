@@ -6,7 +6,7 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Monkey Delivery',
-      initialRoute: '/login',
+      initialRoute: '/pant4',
       routes: routes,
       theme: ThemeData(
         primaryColor: const Color.fromRGBO(252, 96, 17, 1.0),
