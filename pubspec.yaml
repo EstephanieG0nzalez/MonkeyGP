@@ -69,7 +69,17 @@ flutter:
     - lib/src/img/pantalla8.png
     - lib/src/img/pantalla9.png
     - lib/src/img/pantalla10.png
-    - lib/src/img/pizza.png
+    - lib/src/img/pizaa.png
+    - lib/src/img/Slider_indicators1.png
+    - lib/src/img/Slider_indicators2.png
+    - lib/src/img/Slider_indicators3.png
+    - lib/src/img/foto_profile.jpg
+    - lib/src/img/Paymentdetails.png
+    - lib/src/img/My_orders.png
+    - lib/src/img/Notifications.png
+    - lib/src/img/Inbox.png
+    - lib/src/img/About_us.png
+    - lib/src/img/mas.png
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
